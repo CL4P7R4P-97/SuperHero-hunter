@@ -10,7 +10,7 @@ body {
 /* Center align the heading */
 .heading{
     text-align: center;
-	color: white;
+	color: white !important;
 }
 
 /* Center align an element horizontally */
