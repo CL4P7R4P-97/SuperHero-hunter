@@ -1,7 +1,7 @@
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9JRD9V2w7tnNqL16nYpf3GWEGUJajlSVwQ&usqp=CAU)
 # SuperHero Hunter App
 
-A cool app with pure Vanilla Javascript features displaying you favourite heroes.
+A cool app with pure Vanilla Javascript features displaying you favourite heroes. [Try Now!](https://cl4p7r4p-97.github.io/SuperHero-hunter/)
 
 
 ## Features
